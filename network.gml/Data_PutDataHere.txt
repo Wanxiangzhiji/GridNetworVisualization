@@ -1,0 +1,3 @@
+Download the Western US Power Grid GML from its public data repository, and place it here as network.gml.
+Source: https://networkrepository.com/inf_power.php
+This archive intentionally omits the source GML pending verification of redistribution permission.
