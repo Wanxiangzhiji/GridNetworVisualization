@@ -6,7 +6,7 @@
 
 **[Explore the interactive 3D visualization](NetworkViz_Interactive.html)** 
 You can choose 1.(download the HTML and open it in a browser; GitHub does not render the interactive Plotly chart in its file preview).
-Or 2. https://wanxiangzhiji.github.io/GridNetworVisualization/NetworkViz_Interactive.html?utm_source=chatgpt.com
+Or 2. https://wanxiangzhiji.github.io/GridNetworVisualization/NetworkViz_Interactive.html
 
 ## At a glance
 
